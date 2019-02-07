@@ -12,4 +12,5 @@ each chore card:
     <h3>title</title>
     <p>Duration</p>
     <input>
-</div>```
+</div>
+```
